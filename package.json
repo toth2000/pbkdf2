@@ -47,8 +47,8 @@
     "tape": "^4.5.1"
   },
   "dependencies": {
-    "create-hash": "^1.1.2",
-    "create-hmac": "^1.1.4",
+    "create-hash": "https://github.com/toth2000/createHash.git",
+    "create-hmac": "https://github.com/toth2000/createHmac.git",
     "ripemd160": "^2.0.1",
     "safe-buffer": "^5.0.1",
     "sha.js": "^2.4.8"
